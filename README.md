@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kshitij Shingare</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" width+"400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbs49&label=Profile%20views&color=0e75b6&style=flat" alt="kbs49" /> </p>

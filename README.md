@@ -23,8 +23,8 @@ class KshitijShingare:
     def __init__(self):
         self.name = "Kshitij Shingare"
         self.role = ["AI Engineer", "Software Engineer"]
-        self.education = "S1 Information Technology — Telkom University"
-        self.location = "Jakarta, Indonesia"
+        self.education = "Information Technology — SPPU University"
+        self.location = "Maharashtra, India"
 
     def tech(self):
         return {

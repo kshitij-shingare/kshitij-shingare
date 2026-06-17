@@ -99,42 +99,6 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Experience
-
-</div>
-
-```mermaid
-timeline
-    title Professional Journey
-
-    2024 Q2 : Data Entry Assistant
-            : Dinas Pangan & Pertanian Bandung
-
-    2024 Q3-Q4 : ML Code Reviewer — Dicoding Academy
-               : IDCamp Scholar — Indosat Ooredoo Hutchison
-               : AIESEC Future Leaders Delegate
-
-    2025 Q1 : PR Communication — Youth Ranger Indonesia
-            : Academic Affairs — HMIT Telkom University
-
-    2025 Q2-Q3 : Computer Vision Researcher — CPS Lab
-               : System Analyst — ASE Lab
-               : AI Developer — HUMIC Research Center
-               : Chief Committee — Digistar Club
-               : DBS Foundation Coding Camp Scholar
-
-    2025 Q4 : Research Assistant — CPS Lab
-            : Network Practicum Assistant — IF Lab
-            : Digital Learning Auditor — Dicoding
-
-    2026 Q1 : Ongoing Research & Development
-            : Blockchain & Web3 Exploration
-```
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## Open to Collaboration
 
 <table width="100%">

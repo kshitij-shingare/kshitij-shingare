@@ -1,20 +1,42 @@
-<img src="https://komarev.com/ghpvc/?username=kshitij-shingare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kshitij%20Shingare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kshitij-shingare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kshitij-shingare?tab=followers"><img src="https://img.shields.io/github/followers/kshitij-shingare?label=Followers&style=social" alt="GitHub Followers"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kshitij-shingare?tab=repositories"><img src="https://img.shields.io/github/stars/kshitij-shingare?label=Total%20Stars&style=social" alt="GitHub Stars"/></a>
+</p>
 
 <div align="center">
 
-<h1 align="center">Kshitij Shingare</h1>
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems)
-
-<br>
-
-![Snake animation](https://github.com/kshitij-shingare/kshitij-shingare/blob/main/github-contribution-grid-snake-dark.svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems;Building+the+Future+with+Code+%26+Intelligence)
 
 </div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kshitij-shingare&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=kshitij-shingare&theme=github-dark" alt="Kshitij Shingare profile hero" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=kshitij-shingare&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=kshitij-shingare&theme=github-dark" alt="About Kshitij Shingare" />
+  </picture>
+</p>
 
 <div align="left">
 
@@ -25,6 +47,7 @@ class KshitijShingare:
         self.role = ["AI Engineer", "Software Engineer"]
         self.education = "Information Technology — SPPU University"
         self.location = "Maharashtra, India"
+        self.website = "kshitijshingare.in"
 
     def tech(self):
         return {
@@ -34,6 +57,14 @@ class KshitijShingare:
             "frontend": ["Next.js", "React", "Tailwind CSS", "Three.js"],
             "infra": ["Docker", "PostgreSQL", "Redis", "Firebase", "Supabase"],
         }
+
+    def current_focus(self):
+        return [
+            "🔬 Building production-grade LLM/RAG pipelines",
+            "🏗️ Architecting scalable distributed systems",
+            "🌐 Exploring Blockchain & Web3 integrations",
+            "🤖 Advancing computer vision solutions",
+        ]
 
 me = KshitijShingare()
 ```
@@ -46,32 +77,61 @@ clean APIs, deploying deep learning models, and shipping intelligent solutions.
 
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kshitij-shingare&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=kshitij-shingare&theme=github-dark" alt="Language stack" />
+  </picture>
+</p>
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+#### Languages & Core
 
-## Tech Stack
+<img src="https://skillicons.dev/icons?i=python,ts,go,java,solidity" height="55" />
 
-<img src="https://skillicons.dev/icons?i=python,ts,go,java,solidity,tensorflow,pytorch,sklearn,opencv,nodejs" height="55" />
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask,express,nextjs,react,tailwind,threejs,docker" height="55" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,git,linux,figma,vscode" height="55" />
+#### AI / ML / Data
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" height="55" />
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+#### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask,express,nodejs" height="55" />
+
+#### Frontend & Design
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,figma" height="55" />
+
+#### Infrastructure & Databases
+
+<img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,redis,supabase,firebase,git,linux,vscode" height="55" />
+
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🧠 Expertise Map
 
 ```mermaid
 graph LR
@@ -95,11 +155,15 @@ graph LR
     style I fill:#0D1117,stroke:#00FF00,color:#00FF00
 ```
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🤝 Open to Collaboration
+
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## Open to Collaboration
 
 <table width="100%">
 <tr>
@@ -181,35 +245,85 @@ graph LR
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## Stats
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kshitij-shingare&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=kshitij-shingare&theme=github-dark" alt="GitHub Stats" />
+  </picture>
+</p>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kshitij-shingare&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kshitij-shingare&theme=github-compact&hide_border=true"/>
 </picture>
 
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-shingare&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=4"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-shingare&theme=default&hide_border=true&cache_bust=4"/>
-</picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-shingare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=4"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-shingare&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=4"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-shingare&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=5"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-shingare&theme=default&hide_border=true&cache_bust=5"/>
+</picture>&nbsp;&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-shingare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=5"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-shingare&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=5"/>
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/kshitij-shingare/kshitij-shingare/blob/main/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=kshitij-shingare&theme=github-dark&website=kshitijshingare.in&x=KBS_49&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=kshitij-shingare&theme=github-dark&website=kshitijshingare.in&x=KBS_49" alt="kshitij-shingare social links" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kshitij-shingare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:kshitijshingare49@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://twitter.com/KBS_49"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
+  <a href="https://instagram.com/kshitij_shingare_49"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://github.com/kshitij-shingare"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://kshitijshingare.in"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+</p>
 
 ---
 
+<div align="center">
+
 > *"Building the bridge between software craftsmanship and artificial intelligence — one system at a time."*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-shingare)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijshingare49@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kbs_49)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kshitij_shingare_49)
 
 <br>
 

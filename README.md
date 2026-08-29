@@ -1,28 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-<br>
-
-<img src="hi.jpg" width="200" alt="Kshitij Shingare" />
-
-<br><br>
-
-# Kshitij Shingare
-
-**`AI Engineer` · `Software Engineer` · `System Architect`**
+<img src="hi.jpg" width="300" alt="Kshitij Shingare">
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems;Building+the+Future+with+Code+%26+Intelligence)
+<a href="https://github.com/kshitij-shingare">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Kshitij+Shingare;AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Building+the+Future+with+Code" alt="typing banner">
+</a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kshitij-shingare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
-&nbsp;&nbsp;
-<a href="https://github.com/kshitij-shingare?tab=followers"><img src="https://img.shields.io/github/followers/kshitij-shingare?label=Followers&style=social" alt="GitHub Followers"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/kshitij-shingare?tab=repositories"><img src="https://img.shields.io/github/stars/kshitij-shingare?label=Total%20Stars&style=social" alt="GitHub Stars"/></a>
+<a href="https://linkedin.com/in/kshitij-shingare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:kshitijshingare49@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://kshitijshingare.in"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://twitter.com/KBS_49"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://instagram.com/kshitij_shingare_49"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<img src="https://komarev.com/ghpvc/?username=kshitij-shingare&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 

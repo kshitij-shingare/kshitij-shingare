@@ -287,11 +287,14 @@ graph LR
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🐍 Contribution Graph
+## 🏔️ 3D Contribution Terrain
 
 <div align="center">
 
-![Snake animation](https://github.com/kshitij-shingare/kshitij-shingare/blob/main/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-green-dark.svg">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Calendar">
+</picture>
 
 </div>
 

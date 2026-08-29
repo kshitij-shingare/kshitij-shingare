@@ -1,27 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kshitij%20Shingare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18"/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kshitij-shingare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kshitij-shingare?tab=followers"><img src="https://img.shields.io/github/followers/kshitij-shingare?label=Followers&style=social" alt="GitHub Followers"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kshitij-shingare?tab=repositories"><img src="https://img.shields.io/github/stars/kshitij-shingare?label=Total%20Stars&style=social" alt="GitHub Stars"/></a>
-</p>
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems;Building+the+Future+with+Code+%26+Intelligence)
+<table>
+<tr>
+<td align="center" width="220">
+  <img src="hi.jpg" width="180" alt="Kshitij Shingare" style="border-radius:50%;" />
+</td>
+<td align="left">
+
+### Hey, I'm Kshitij Shingare 👋
+
+**`AI Engineer` · `Software Engineer` · `System Architect`**
+
+Building end-to-end systems — from scalable architectures to production ML pipelines.
+I work across the full stack: designing clean APIs, deploying deep learning models,
+and shipping intelligent solutions.
+
+[![Website](https://img.shields.io/badge/kshitijshingare.in-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://kshitijshingare.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-shingare)
+[![Twitter](https://img.shields.io/badge/@KBS__49-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KBS_49)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kshitijshingare49@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kshitij-shingare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+&nbsp;&nbsp;
+<a href="https://github.com/kshitij-shingare?tab=followers"><img src="https://img.shields.io/github/followers/kshitij-shingare?label=Followers&style=social" alt="GitHub Followers"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/kshitij-shingare?tab=repositories"><img src="https://img.shields.io/github/stars/kshitij-shingare?label=Total%20Stars&style=social" alt="GitHub Stars"/></a>
+
+<br><br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Software+Engineer;Architecting+Digital+Reality;Turning+Complex+Problems+into+Elegant+Systems;Building+the+Future+with+Code+%26+Intelligence)
 
 </div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kshitij-shingare&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=kshitij-shingare&theme=github-dark" alt="Kshitij Shingare profile hero" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

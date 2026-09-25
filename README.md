@@ -18,8 +18,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kshitij-shingare&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=kshitij-shingare&theme=github-dark" alt="Kshitij Shingare profile hero" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Kshitij Shingare" src="./dark.svg" width="100%">
   </picture>
 </p>
 

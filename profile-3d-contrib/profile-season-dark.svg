@@ -2167,6 +2167,11 @@ fill-opacity: 0.5;
 <rect class="cont-left-p2-1" height="14.68" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-p2-1" height="14.68" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1060 820.85)">
+<rect class="cont-top-p2-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-p2-1" height="5.24" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-right-p2-1" height="5.24" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -2213,7 +2218,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>113</title>
+<title>114</title>
 </text>
 </g>
 <g class="axis">
@@ -2244,7 +2249,7 @@ Repo
 <title>17</title>
 </text>
 </g>
-<polygon class="radar" points="0,-95.26 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.18,-21.5"/>
+<polygon class="radar" points="0,-95.38 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.18,-21.5"/>
 </g>
 <g transform="translate(40, 520)">
 <g transform="translate(273, 0)">
@@ -2256,13 +2261,13 @@ HTML
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="81.25">
 Python
 </text>
-<rect class="stroke-bg" fill="#f7523f" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="102.91666666666667"/>
+<rect class="stroke-bg" fill="#3178c6" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="102.91666666666667"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="113.75">
-Blade
-</text>
-<rect class="stroke-bg" fill="#3178c6" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="135.41666666666666"/>
-<text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="146.25">
 TypeScript
+</text>
+<rect class="stroke-bg" fill="#f7523f" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="135.41666666666666"/>
+<text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="146.25">
+Blade
 </text>
 <rect class="stroke-bg" fill="#41b883" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="167.91666666666666"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="178.75">
@@ -2274,29 +2279,29 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,116.71751,-8.125453 L64.84306,-4.5141406 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,116.60039,-9.661783 L64.77799,-5.3676577 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
 <title>HTML 27</title>
 </path>
-<path class="stroke-bg" d="M116.71751,-8.125453 A117,117,0,0,1,53.26175,104.17383 L29.58986,57.874348 A65,65,0,0,0,64.84306,-4.5141406 z" fill="#3572A5" stroke-width="2px">
+<path class="stroke-bg" d="M116.60039,-9.661783 A117,117,0,0,1,55.685844,102.89843 L30.93658,57.165794 A65,65,0,0,0,64.77799,-5.3676577 z" fill="#3572A5" stroke-width="2px">
 <title>Python 21</title>
 </path>
-<path class="stroke-bg" d="M53.26175,104.17383 A117,117,0,0,1,-64.49372,97.61946 L-35.829845,54.233036 A65,65,0,0,0,29.58986,57.874348 z" fill="#f7523f" stroke-width="2px">
+<path class="stroke-bg" d="M55.685844,102.89843 A117,117,0,0,1,-66.66754,96.148 L-37.037525,53.415558 A65,65,0,0,0,30.93658,57.165794 z" fill="#3178c6" stroke-width="2px">
+<title>TypeScript 20</title>
+</path>
+<path class="stroke-bg" d="M-66.66754,96.148 A117,117,0,0,1,-116.60039,-9.661783 L-64.77799,-5.3676577 A65,65,0,0,0,-37.037525,53.415558 z" fill="#f7523f" stroke-width="2px">
 <title>Blade 19</title>
 </path>
-<path class="stroke-bg" d="M-64.49372,97.61946 A117,117,0,0,1,-116.71751,-8.125453 L-64.84306,-4.5141406 A65,65,0,0,0,-35.829845,54.233036 z" fill="#3178c6" stroke-width="2px">
-<title>TypeScript 19</title>
-</path>
-<path class="stroke-bg" d="M-116.71751,-8.125453 A117,117,0,0,1,-101.86275,-57.5585 L-56.590416,-31.976944 A65,65,0,0,0,-64.84306,-4.5141406 z" fill="#41b883" stroke-width="2px">
+<path class="stroke-bg" d="M-116.60039,-9.661783 A117,117,0,0,1,-101.324974,-58.5 L-56.291653,-32.5 A65,65,0,0,0,-64.77799,-5.3676577 z" fill="#41b883" stroke-width="2px">
 <title>Vue 8</title>
 </path>
-<path class="stroke-bg" d="M-101.86275,-57.5585 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-56.590416,-31.976944 z" fill="#444444" stroke-width="2px">
+<path class="stroke-bg" d="M-101.324974,-58.5 A117,117,0,0,1,-0.00000000000013257361,-117 L-0.00000000000007365201,-65 A65,65,0,0,0,-56.291653,-32.5 z" fill="#444444" stroke-width="2px">
 <title>other 19</title>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-696
+697
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -2316,12 +2321,12 @@ contributions
 <title>1</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-09-21 / 2026-09-25
+2025-09-21 / 2026-09-26
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-785
+786
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
@@ -2393,8 +2398,8 @@ Kshitij Shingare · Maharashtra, India · joined 2023 · 19 public repos · 98 s
 <rect class="fill-strong" height="36" style="opacity:0.34" width="48.083333333333336" x="841.3333333333334" y="980">
 <title>16:00 - 6 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.34" width="48.083333333333336" x="891.4166666666667" y="980">
-<title>17:00 - 6 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.38" width="48.083333333333336" x="891.4166666666667" y="980">
+<title>17:00 - 7 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.45" width="48.083333333333336" x="941.5" y="980">
 <title>18:00 - 9 commits</title>

@@ -2872,6 +2872,16 @@ fill-opacity: 0.5;
 <rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1060 817.95)">
+<animateTransform attributeName="transform" dur="3s" repeatCount="1" type="translate" values="1060 823.91;1060 817.95"/>
+<rect class="cont-top-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-1" height="7.76" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;7.76"/>
+</rect>
+<rect class="cont-right-1" height="7.76" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0">
+<animate attributeName="height" dur="3s" repeatCount="1" values="2.6;7.76"/>
+</rect>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -2918,7 +2928,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>114</title>
+<title>115</title>
 </text>
 </g>
 <g class="axis">
@@ -2946,11 +2956,11 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>17</title>
+<title>18</title>
 </text>
 </g>
-<polygon class="radar" points="0,-95.38 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.18,-21.5">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-95.38 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.18,-21.5"/>
+<polygon class="radar" points="0,-95.49 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.92,-21.74">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-95.49 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.92,-21.74"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -2999,35 +3009,35 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,116.60039,-9.661783 L64.77799,-5.3676577 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,116.4656,-11.1697645 L64.70311,-6.205425 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
 <title>HTML 27</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M116.60039,-9.661783 A117,117,0,0,1,55.685844,102.89843 L30.93658,57.165794 A65,65,0,0,0,64.77799,-5.3676577 z" fill="#3572A5" stroke-width="2px">
+<path class="stroke-bg" d="M116.4656,-11.1697645 A117,117,0,0,1,58.03806,101.59027 L32.243366,56.43904 A65,65,0,0,0,64.70311,-6.205425 z" fill="#3572A5" stroke-width="2px">
 <title>Python 21</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M55.685844,102.89843 A117,117,0,0,1,-66.66754,96.148 L-37.037525,53.415558 A65,65,0,0,0,30.93658,57.165794 z" fill="#3178c6" stroke-width="2px">
+<path class="stroke-bg" d="M58.03806,101.59027 A117,117,0,0,1,-63.49922,98.269264 L-35.277344,54.594036 A65,65,0,0,0,32.243366,56.43904 z" fill="#3178c6" stroke-width="2px">
 <title>TypeScript 20</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-66.66754,96.148 A117,117,0,0,1,-116.60039,-9.661783 L-64.77799,-5.3676577 A65,65,0,0,0,-37.037525,53.415558 z" fill="#f7523f" stroke-width="2px">
+<path class="stroke-bg" d="M-63.49922,98.269264 A117,117,0,0,1,-116.90179,-4.793002 L-64.945435,-2.6627789 A65,65,0,0,0,-35.277344,54.594036 z" fill="#f7523f" stroke-width="2px">
 <title>Blade 19</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-116.60039,-9.661783 A117,117,0,0,1,-101.324974,-58.5 L-56.291653,-32.5 A65,65,0,0,0,-64.77799,-5.3676577 z" fill="#41b883" stroke-width="2px">
+<path class="stroke-bg" d="M-116.90179,-4.793002 A117,117,0,0,1,-103.88257,-53.82761 L-57.71254,-29.904228 A65,65,0,0,0,-64.945435,-2.6627789 z" fill="#41b883" stroke-width="2px">
 <title>Vue 8</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M-101.324974,-58.5 A117,117,0,0,1,-0.00000000000013257361,-117 L-0.00000000000007365201,-65 A65,65,0,0,0,-56.291653,-32.5 z" fill="#444444" stroke-width="2px">
-<title>other 19</title>
+<path class="stroke-bg" d="M-103.88257,-53.82761 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-57.71254,-29.904228 z" fill="#444444" stroke-width="2px">
+<title>other 20</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-692
+694
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -3047,21 +3057,21 @@ contributions
 <title>2</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-09-28 / 2026-10-02
+2025-09-28 / 2026-10-03
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-786
+788
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
 </text>
 <text class="fill-weak" style="font-size:14px" text-anchor="start" x="40" y="940">
-Kshitij Shingare · Maharashtra, India · joined 2023 · 19 public repos · 104 stars
+Kshitij Shingare · Maharashtra, India · joined 2023 · 20 public repos · 104 stars
 </text>
 <text class="fill-weak" style="font-size:12px" text-anchor="start" x="40" y="958">
-1 issues · 5 PRs · 20 repos contributed to · kshitijshingare.in
+1 issues · 5 PRs · 21 repos contributed to · kshitijshingare.in
 </text>
 <g>
 <rect class="fill-strong" height="36" style="opacity:0.16" width="48.083333333333336" x="40" y="980">
@@ -3127,8 +3137,8 @@ Kshitij Shingare · Maharashtra, India · joined 2023 · 19 public repos · 104 
 <rect class="fill-strong" height="36" style="opacity:0.38" width="48.083333333333336" x="891.4166666666667" y="980">
 <title>17:00 - 7 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.45" width="48.083333333333336" x="941.5" y="980">
-<title>18:00 - 9 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.49" width="48.083333333333336" x="941.5" y="980">
+<title>18:00 - 10 commits</title>
 </rect>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="941.5" y="1030">
 18
@@ -3157,26 +3167,26 @@ repos per language
 </text>
 <g>
 <g>
-<rect fill="#e34c26" height="18" width="320" x="40" y="1050">
+<rect fill="#e34c26" height="18" width="300" x="40" y="1050">
 <title>HTML (4 repos)</title>
 </rect>
-<rect fill="#3178c6" height="18" width="240" x="360" y="1050">
+<rect fill="#3178c6" height="18" width="225" x="340" y="1050">
 <title>TypeScript (3 repos)</title>
 </rect>
-<rect fill="#3572A5" height="18" width="240" x="600" y="1050">
+<rect fill="#3572A5" height="18" width="225" x="565" y="1050">
 <title>Python (3 repos)</title>
 </rect>
-<rect fill="#DA5B0B" height="18" width="80" x="840" y="1050">
+<rect fill="#DA5B0B" height="18" width="75" x="790" y="1050">
 <title>Jupyter Notebook (1 repos)</title>
 </rect>
-<rect fill="#41b883" height="18" width="80" x="920" y="1050">
+<rect fill="#41b883" height="18" width="75" x="865" y="1050">
 <title>Vue (1 repos)</title>
 </rect>
-<rect fill="#663399" height="18" width="80" x="1000" y="1050">
+<rect fill="#663399" height="18" width="75" x="940" y="1050">
 <title>CSS (1 repos)</title>
 </rect>
-<rect fill="#444444" height="18" width="160" x="1080" y="1050">
-<title>other (2 repos)</title>
+<rect fill="#444444" height="18" width="225" x="1015" y="1050">
+<title>other (3 repos)</title>
 </rect>
 </g>
 <g>
@@ -3206,7 +3216,7 @@ CSS (1)
 </text>
 <rect fill="#444444" height="10" width="10" x="604" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="618" y="1084">
-other (2)
+other (3)
 </text>
 </g>
 </g>

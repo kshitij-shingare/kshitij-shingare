@@ -2812,6 +2812,11 @@ fill-opacity: 0.5;
 <rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1160 766.17)">
+<rect class="cont-top-0" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -2886,11 +2891,11 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>19</title>
+<title>18</title>
 </text>
 </g>
-<polygon class="radar" points="0,-95.73 29.67,-9.64 31.16,42.88 -18.34,25.24 -67.62,-21.97">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-95.73 29.67,-9.64 31.16,42.88 -18.34,25.24 -67.62,-21.97"/>
+<polygon class="radar" points="0,-95.73 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.92,-21.74">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-95.73 29.67,-9.64 31.16,42.88 -18.34,25.24 -66.92,-21.74"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -2967,7 +2972,7 @@ other
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-691
+686
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -2987,7 +2992,7 @@ contributions
 <title>2</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-10-19 / 2026-10-18
+2025-10-19 / 2026-10-19
 </text>
 </g>
 <g>

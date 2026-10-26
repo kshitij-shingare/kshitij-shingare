@@ -2797,6 +2797,11 @@ fill-opacity: 0.5;
 <animate attributeName="height" dur="3s" repeatCount="1" values="2.6;22.72"/>
 </rect>
 </g>
+<g transform="translate(1160 766.17)">
+<rect class="cont-top-0" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-right-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -2843,7 +2848,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>123</title>
+<title>121</title>
 </text>
 </g>
 <g class="axis">
@@ -2874,8 +2879,8 @@ Repo
 <title>21</title>
 </text>
 </g>
-<polygon class="radar" points="0,-96.41 29.67,-9.64 31.16,42.88 -18.34,25.24 -68.91,-22.39">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-96.41 29.67,-9.64 31.16,42.88 -18.34,25.24 -68.91,-22.39"/>
+<polygon class="radar" points="0,-96.18 29.67,-9.64 31.16,42.88 -18.34,25.24 -68.91,-22.39">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-96.18 29.67,-9.64 31.16,42.88 -18.34,25.24 -68.91,-22.39"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
@@ -2924,35 +2929,35 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,114.85987,-22.27576 L63.81104,-12.3754225 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
-<title>HTML 27</title>
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,114.162346,-25.611689 L63.423527,-14.228716 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
+<title>HTML 26</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M114.85987,-22.27576 A117,117,0,0,1,69.734314,93.94746 L38.741287,52.19303 A65,65,0,0,0,63.81104,-12.3754225 z" fill="#3178c6" stroke-width="2px">
+<path class="stroke-bg" d="M114.162346,-25.611689 A117,117,0,0,1,70.72196,93.206245 L39.28998,51.781246 A65,65,0,0,0,63.423527,-14.228716 z" fill="#3178c6" stroke-width="2px">
 <title>TypeScript 22</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M69.734314,93.94746 A117,117,0,0,1,-49.220528,106.14301 L-27.344738,58.96834 A65,65,0,0,0,38.741287,52.19303 z" fill="#3572A5" stroke-width="2px">
+<path class="stroke-bg" d="M70.72196,93.206245 A117,117,0,0,1,-49.981033,105.78703 L-27.76724,58.770573 A65,65,0,0,0,39.28998,51.781246 z" fill="#3572A5" stroke-width="2px">
 <title>Python 21</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-49.220528,106.14301 A117,117,0,0,1,-115.391304,19.33513 L-64.10628,10.741739 A65,65,0,0,0,-27.344738,58.96834 z" fill="#f7523f" stroke-width="2px">
+<path class="stroke-bg" d="M-49.981033,105.78703 A117,117,0,0,1,-115.809105,16.650837 L-64.338394,9.250464 A65,65,0,0,0,-27.76724,58.770573 z" fill="#f7523f" stroke-width="2px">
 <title>Blade 19</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-115.391304,19.33513 A117,117,0,0,1,-113.57263,-28.111515 L-63.095905,-15.617509 A65,65,0,0,0,-64.10628,10.741739 z" fill="#41b883" stroke-width="2px">
+<path class="stroke-bg" d="M-115.809105,16.650837 A117,117,0,0,1,-112.67912,-31.502628 L-62.59951,-17.501461 A65,65,0,0,0,-64.338394,9.250464 z" fill="#41b883" stroke-width="2px">
 <title>Vue 8</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M-113.57263,-28.111515 A117,117,0,0,1,0.00000000000007526014,-117 L0.00000000000004181119,-65 A65,65,0,0,0,-63.095905,-15.617509 z" fill="#444444" stroke-width="2px">
-<title>other 26</title>
+<path class="stroke-bg" d="M-112.67912,-31.502628 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-62.59951,-17.501461 z" fill="#444444" stroke-width="2px">
+<title>other 25</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-695
+686
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -2972,7 +2977,7 @@ contributions
 <title>2</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-10-26 / 2026-10-25
+2025-10-26 / 2026-10-26
 </text>
 </g>
 <g>

@@ -2167,6 +2167,11 @@ fill-opacity: 0.5;
 <rect class="cont-left-p4-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-p4-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1060 807.5)">
+<rect class="cont-top-p4-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-p4-1" height="16.81" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-right-p4-1" height="16.81" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -2213,7 +2218,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>121</title>
+<title>126</title>
 </text>
 </g>
 <g class="axis">
@@ -2241,10 +2246,10 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>21</title>
+<title>22</title>
 </text>
 </g>
-<polygon class="radar" points="0,-96.18 29.67,-9.64 31.16,42.88 -18.34,25.24 -68.91,-22.39"/>
+<polygon class="radar" points="0,-96.73 29.67,-9.64 31.16,42.88 -18.34,25.24 -69.51,-22.58"/>
 </g>
 <g transform="translate(40, 520)">
 <g transform="translate(273, 0)">
@@ -2264,9 +2269,9 @@ Python
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="146.25">
 Blade
 </text>
-<rect class="stroke-bg" fill="#41b883" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="167.91666666666666"/>
+<rect class="stroke-bg" fill="#f1e05a" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="167.91666666666666"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="178.75">
-Vue
+JavaScript
 </text>
 <rect class="stroke-bg" fill="#444444" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="200.41666666666666"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="211.25">
@@ -2274,29 +2279,29 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,114.162346,-25.611689 L63.423527,-14.228716 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,112.62704,-31.688335 L62.570576,-17.60463 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
 <title>HTML 26</title>
 </path>
-<path class="stroke-bg" d="M114.162346,-25.611689 A117,117,0,0,1,70.72196,93.206245 L39.28998,51.781246 A65,65,0,0,0,63.423527,-14.228716 z" fill="#3178c6" stroke-width="2px">
+<path class="stroke-bg" d="M112.62704,-31.688335 A117,117,0,0,1,79.58021,85.76707 L44.211227,47.648373 A65,65,0,0,0,62.570576,-17.60463 z" fill="#3178c6" stroke-width="2px">
 <title>TypeScript 22</title>
 </path>
-<path class="stroke-bg" d="M70.72196,93.206245 A117,117,0,0,1,-49.981033,105.78703 L-27.76724,58.770573 A65,65,0,0,0,39.28998,51.781246 z" fill="#3572A5" stroke-width="2px">
+<path class="stroke-bg" d="M79.58021,85.76707 A117,117,0,0,1,-34.486355,111.80202 L-19.159086,62.112232 A65,65,0,0,0,44.211227,47.648373 z" fill="#3572A5" stroke-width="2px">
 <title>Python 21</title>
 </path>
-<path class="stroke-bg" d="M-49.981033,105.78703 A117,117,0,0,1,-115.809105,16.650837 L-64.338394,9.250464 A65,65,0,0,0,-27.76724,58.770573 z" fill="#f7523f" stroke-width="2px">
+<path class="stroke-bg" d="M-34.486355,111.80202 A117,117,0,0,1,-110.9075,37.26294 L-61.615276,20.701632 A65,65,0,0,0,-19.159086,62.112232 z" fill="#f7523f" stroke-width="2px">
 <title>Blade 19</title>
 </path>
-<path class="stroke-bg" d="M-115.809105,16.650837 A117,117,0,0,1,-112.67912,-31.502628 L-62.59951,-17.501461 A65,65,0,0,0,-64.338394,9.250464 z" fill="#41b883" stroke-width="2px">
-<title>Vue 8</title>
+<path class="stroke-bg" d="M-110.9075,37.26294 A117,117,0,0,1,-116.09199,-14.548213 L-64.49555,-8.082341 A65,65,0,0,0,-61.615276,20.701632 z" fill="#f1e05a" stroke-width="2px">
+<title>JavaScript 9</title>
 </path>
-<path class="stroke-bg" d="M-112.67912,-31.502628 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-62.59951,-17.501461 z" fill="#444444" stroke-width="2px">
-<title>other 25</title>
+<path class="stroke-bg" d="M-116.09199,-14.548213 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-64.49555,-8.082341 z" fill="#444444" stroke-width="2px">
+<title>other 29</title>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-686
+692
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -2305,8 +2310,8 @@ contributions
 <path class="fill-fg" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z" fill-rule="evenodd"/>
 </g>
 <text class="fill-fg" style="font-size:32px;font-weight:bold" text-anchor="start" x="650" y="830">
-118
-<title>118</title>
+119
+<title>119</title>
 </text>
 <g transform="translate(736, 802), scale(2)">
 <path class="fill-fg" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z" fill-rule="evenodd"/>
@@ -2316,21 +2321,21 @@ contributions
 <title>2</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-10-26 / 2026-10-30
+2025-10-26 / 2026-10-31
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-800
+807
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
 </text>
 <text class="fill-weak" style="font-size:14px" text-anchor="start" x="40" y="940">
-Kshitij Shingare · Maharashtra, India · joined 2023 · 24 public repos · 118 stars
+Kshitij Shingare · Maharashtra, India · joined 2023 · 25 public repos · 119 stars
 </text>
 <text class="fill-weak" style="font-size:12px" text-anchor="start" x="40" y="958">
-1 issues · 5 PRs · 24 repos contributed to · kshitijshingare.in
+1 issues · 5 PRs · 25 repos contributed to · kshitijshingare.in
 </text>
 <g>
 <rect class="fill-strong" height="36" style="opacity:0.16" width="48.083333333333336" x="40" y="980">
@@ -2339,8 +2344,8 @@ Kshitij Shingare · Maharashtra, India · joined 2023 · 24 public repos · 118 
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="40" y="1030">
 00
 </text>
-<rect class="fill-strong" height="36" style="opacity:0.30" width="48.083333333333336" x="90.08333333333334" y="980">
-<title>01:00 - 5 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.34" width="48.083333333333336" x="90.08333333333334" y="980">
+<title>01:00 - 6 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.12" width="48.083333333333336" x="140.16666666666669" y="980">
 <title>02:00 - 0 commits</title>
@@ -2408,14 +2413,14 @@ Kshitij Shingare · Maharashtra, India · joined 2023 · 24 public repos · 118 
 <rect class="fill-strong" height="36" style="opacity:0.38" width="48.083333333333336" x="1041.6666666666667" y="980">
 <title>20:00 - 7 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.74" width="48.083333333333336" x="1091.75" y="980">
-<title>21:00 - 17 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.78" width="48.083333333333336" x="1091.75" y="980">
+<title>21:00 - 18 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.63" width="48.083333333333336" x="1141.8333333333335" y="980">
-<title>22:00 - 14 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.67" width="48.083333333333336" x="1141.8333333333335" y="980">
+<title>22:00 - 15 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.19" width="48.083333333333336" x="1191.9166666666667" y="980">
-<title>23:00 - 2 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.30" width="48.083333333333336" x="1191.9166666666667" y="980">
+<title>23:00 - 5 commits</title>
 </rect>
 </g>
 <text class="fill-weak" style="font-size:12px" text-anchor="start" x="40" y="972">
@@ -2426,25 +2431,25 @@ repos per language
 </text>
 <g>
 <g>
-<rect fill="#e34c26" height="18" width="266.66666666666663" x="40" y="1050">
+<rect fill="#e34c26" height="18" width="252.6315789473684" x="40" y="1050">
 <title>HTML (4 repos)</title>
 </rect>
-<rect fill="#3178c6" height="18" width="266.66666666666663" x="306.66666666666663" y="1050">
+<rect fill="#3178c6" height="18" width="252.6315789473684" x="292.63157894736844" y="1050">
 <title>TypeScript (4 repos)</title>
 </rect>
-<rect fill="#3572A5" height="18" width="200" x="573.3333333333333" y="1050">
+<rect fill="#3572A5" height="18" width="189.4736842105263" x="545.2631578947369" y="1050">
 <title>Python (3 repos)</title>
 </rect>
-<rect fill="#f1e05a" height="18" width="133.33333333333331" x="773.3333333333333" y="1050">
-<title>JavaScript (2 repos)</title>
+<rect fill="#f1e05a" height="18" width="189.4736842105263" x="734.7368421052631" y="1050">
+<title>JavaScript (3 repos)</title>
 </rect>
-<rect fill="#DA5B0B" height="18" width="66.66666666666666" x="906.6666666666665" y="1050">
+<rect fill="#DA5B0B" height="18" width="63.1578947368421" x="924.2105263157894" y="1050">
 <title>Jupyter Notebook (1 repos)</title>
 </rect>
-<rect fill="#41b883" height="18" width="66.66666666666666" x="973.3333333333331" y="1050">
+<rect fill="#41b883" height="18" width="63.1578947368421" x="987.3684210526314" y="1050">
 <title>Vue (1 repos)</title>
 </rect>
-<rect fill="#444444" height="18" width="200" x="1039.9999999999998" y="1050">
+<rect fill="#444444" height="18" width="189.4736842105263" x="1050.5263157894735" y="1050">
 <title>other (3 repos)</title>
 </rect>
 </g>
@@ -2463,7 +2468,7 @@ Python (3)
 </text>
 <rect fill="#f1e05a" height="10" width="10" x="316" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="330" y="1084">
-JavaScript (2)
+JavaScript (3)
 </text>
 <rect fill="#DA5B0B" height="10" width="10" x="428" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="442" y="1084">

@@ -2162,6 +2162,11 @@ fill-opacity: 0.5;
 <rect class="cont-left-p4-0" height="2.6" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="cont-right-p4-0" height="2.6" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1080 803.62)">
+<rect class="cont-top-p4-1" height="18" stroke="none" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-left-p4-1" height="10.17" stroke="none" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="cont-right-p4-1" height="10.17" stroke="none" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -2208,7 +2213,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>127</title>
+<title>129</title>
 </text>
 </g>
 <g class="axis">
@@ -2236,10 +2241,10 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>22</title>
+<title>23</title>
 </text>
 </g>
-<polygon class="radar" points="0,-96.84 29.67,-9.64 31.16,42.88 -18.34,25.24 -69.51,-22.58"/>
+<polygon class="radar" points="0,-97.05 29.67,-9.64 31.16,42.88 -18.34,25.24 -70.08,-22.77"/>
 </g>
 <g transform="translate(40, 520)">
 <g transform="translate(273, 0)">
@@ -2269,29 +2274,29 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,112.29767,-32.83646 L62.387596,-18.24248 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,111.62053,-35.069332 L62.011402,-19.482962 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
 <title>HTML 26</title>
 </path>
-<path class="stroke-bg" d="M112.29767,-32.83646 A117,117,0,0,1,81.18245,84.25206 L45.10136,46.8067 A65,65,0,0,0,62.387596,-18.24248 z" fill="#3178c6" stroke-width="2px">
+<path class="stroke-bg" d="M111.62053,-35.069332 A117,117,0,0,1,84.22871,81.20668 L46.793724,45.114822 A65,65,0,0,0,62.011402,-19.482962 z" fill="#3178c6" stroke-width="2px">
 <title>TypeScript 22</title>
 </path>
-<path class="stroke-bg" d="M81.18245,84.25206 A117,117,0,0,1,-31.445034,112.695206 L-17.469463,62.608448 A65,65,0,0,0,45.10136,46.8067 z" fill="#3572A5" stroke-width="2px">
+<path class="stroke-bg" d="M84.22871,81.20668 A117,117,0,0,1,-25.439331,114.200874 L-14.132961,63.44493 A65,65,0,0,0,46.793724,45.114822 z" fill="#3572A5" stroke-width="2px">
 <title>Python 21</title>
 </path>
-<path class="stroke-bg" d="M-31.445034,112.695206 A117,117,0,0,1,-109.554,41.072144 L-60.863335,22.817858 A65,65,0,0,0,-17.469463,62.608448 z" fill="#f7523f" stroke-width="2px">
+<path class="stroke-bg" d="M-25.439331,114.200874 A117,117,0,0,1,-106.53429,48.367813 L-59.185715,26.871008 A65,65,0,0,0,-14.132961,63.44493 z" fill="#f7523f" stroke-width="2px">
 <title>Blade 19</title>
 </path>
-<path class="stroke-bg" d="M-109.554,41.072144 A117,117,0,0,1,-115.91881,-15.8691635 L-64.39934,-8.816202 A65,65,0,0,0,-60.863335,22.817858 z" fill="#f1e05a" stroke-width="2px">
-<title>JavaScript 10</title>
+<path class="stroke-bg" d="M-106.53429,48.367813 A117,117,0,0,1,-115.53716,-18.443533 L-64.18731,-10.246407 A65,65,0,0,0,-59.185715,26.871008 z" fill="#f1e05a" stroke-width="2px">
+<title>JavaScript 12</title>
 </path>
-<path class="stroke-bg" d="M-115.91881,-15.8691635 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-64.39934,-8.816202 z" fill="#444444" stroke-width="2px">
+<path class="stroke-bg" d="M-115.53716,-18.443533 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-64.18731,-10.246407 z" fill="#444444" stroke-width="2px">
 <title>other 29</title>
 </path>
 </g>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-685
+688
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -2311,21 +2316,21 @@ contributions
 <title>2</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-11-02 / 2026-11-05
+2025-11-02 / 2026-11-06
 </text>
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="start" x="40" y="890">
-807
+810
 </text>
 <text class="fill-fg" style="font-size:16px" text-anchor="start" x="40" y="914">
 lifetime contributions
 </text>
 <text class="fill-weak" style="font-size:14px" text-anchor="start" x="40" y="940">
-Kshitij Shingare · Maharashtra, India · joined 2023 · 25 public repos · 120 stars
+Kshitij Shingare · Maharashtra, India · joined 2023 · 26 public repos · 120 stars
 </text>
 <text class="fill-weak" style="font-size:12px" text-anchor="start" x="40" y="958">
-1 issues · 5 PRs · 25 repos contributed to · kshitijshingare.in
+1 issues · 5 PRs · 26 repos contributed to · kshitijshingare.in
 </text>
 <g>
 <rect class="fill-strong" height="36" style="opacity:0.16" width="48.083333333333336" x="40" y="980">
@@ -2379,8 +2384,8 @@ Kshitij Shingare · Maharashtra, India · joined 2023 · 25 public repos · 120 
 <rect class="fill-strong" height="36" style="opacity:0.12" width="48.083333333333336" x="691.0833333333334" y="980">
 <title>13:00 - 0 commits</title>
 </rect>
-<rect class="fill-strong" height="36" style="opacity:0.16" width="48.083333333333336" x="741.1666666666667" y="980">
-<title>14:00 - 1 commits</title>
+<rect class="fill-strong" height="36" style="opacity:0.23" width="48.083333333333336" x="741.1666666666667" y="980">
+<title>14:00 - 3 commits</title>
 </rect>
 <rect class="fill-strong" height="36" style="opacity:0.16" width="48.083333333333336" x="791.25" y="980">
 <title>15:00 - 1 commits</title>
@@ -2421,25 +2426,25 @@ repos per language
 </text>
 <g>
 <g>
-<rect fill="#e34c26" height="18" width="252.6315789473684" x="40" y="1050">
+<rect fill="#e34c26" height="18" width="240" x="40" y="1050">
 <title>HTML (4 repos)</title>
 </rect>
-<rect fill="#3178c6" height="18" width="252.6315789473684" x="292.63157894736844" y="1050">
+<rect fill="#3178c6" height="18" width="240" x="280" y="1050">
 <title>TypeScript (4 repos)</title>
 </rect>
-<rect fill="#3572A5" height="18" width="189.4736842105263" x="545.2631578947369" y="1050">
+<rect fill="#f1e05a" height="18" width="240" x="520" y="1050">
+<title>JavaScript (4 repos)</title>
+</rect>
+<rect fill="#3572A5" height="18" width="180" x="760" y="1050">
 <title>Python (3 repos)</title>
 </rect>
-<rect fill="#f1e05a" height="18" width="189.4736842105263" x="734.7368421052631" y="1050">
-<title>JavaScript (3 repos)</title>
-</rect>
-<rect fill="#DA5B0B" height="18" width="63.1578947368421" x="924.2105263157894" y="1050">
+<rect fill="#DA5B0B" height="18" width="60" x="940" y="1050">
 <title>Jupyter Notebook (1 repos)</title>
 </rect>
-<rect fill="#41b883" height="18" width="63.1578947368421" x="987.3684210526314" y="1050">
+<rect fill="#41b883" height="18" width="60" x="1000" y="1050">
 <title>Vue (1 repos)</title>
 </rect>
-<rect fill="#444444" height="18" width="189.4736842105263" x="1050.5263157894735" y="1050">
+<rect fill="#444444" height="18" width="180" x="1060" y="1050">
 <title>other (3 repos)</title>
 </rect>
 </g>
@@ -2452,13 +2457,13 @@ HTML (4)
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="130" y="1084">
 TypeScript (4)
 </text>
-<rect fill="#3572A5" height="10" width="10" x="228" y="1074"/>
+<rect fill="#f1e05a" height="10" width="10" x="228" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="242" y="1084">
-Python (3)
+JavaScript (4)
 </text>
-<rect fill="#f1e05a" height="10" width="10" x="316" y="1074"/>
-<text class="fill-weak" style="font-size:11px" text-anchor="start" x="330" y="1084">
-JavaScript (3)
+<rect fill="#3572A5" height="10" width="10" x="340" y="1074"/>
+<text class="fill-weak" style="font-size:11px" text-anchor="start" x="354" y="1084">
+Python (3)
 </text>
 <rect fill="#DA5B0B" height="10" width="10" x="428" y="1074"/>
 <text class="fill-weak" style="font-size:11px" text-anchor="start" x="442" y="1084">

@@ -2757,6 +2757,16 @@ fill-opacity: 0.5;
 <rect class="rb-l0-left" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
 <rect class="rb-l0-right" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
 </g>
+<g transform="translate(1160 766.17)">
+<rect class="rb-l0-top" height="18" stroke="none" style="animation-delay:-9.889s" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="rb-l0-left" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="rb-l0-right" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
+<g transform="translate(1140 777.72)">
+<rect class="rb-l0-top" height="18" stroke="none" style="animation-delay:-9.889s" transform="skewY(-30) skewX(40.89) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="rb-l0-left" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="skewY(30) scale(1 1.15)" width="18" x="0" y="0"/>
+<rect class="rb-l0-right" height="2.6" stroke="none" style="animation-delay:-9.889s" transform="translate(18 10.39) skewY(-30) scale(1 1.15)" width="18" x="0" y="0"/>
+</g>
 </g>
 <g transform="translate(980, 284.5)">
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="29.67" y1="-31.2" y2="-9.64"/>
@@ -2803,7 +2813,7 @@ fill-opacity: 0.5;
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="0" x2="0" y1="-31.2" y2="-156"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="0" y="-182.52">
 Commit
-<title>128</title>
+<title>108</title>
 </text>
 </g>
 <g class="axis">
@@ -2831,48 +2841,48 @@ Review
 <line class="stroke-weak" style="stroke-dasharray:4 4;stroke-width:1px" x1="-29.67" x2="-148.36" y1="-9.64" y2="-48.21"/>
 <text class="fill-fg" dominant-baseline="middle" font-size="20.8px" text-anchor="middle" x="-185.46" y="-56.4">
 Repo
-<title>23</title>
+<title>20</title>
 </text>
 </g>
-<polygon class="radar" points="0,-96.94 29.67,-9.64 31.16,42.88 -18.34,25.24 -70.08,-22.77">
-<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-96.94 29.67,-9.64 31.16,42.88 -18.34,25.24 -70.08,-22.77"/>
+<polygon class="radar" points="0,-94.64 29.67,-9.64 31.16,42.88 -18.34,25.24 -68.28,-22.18">
+<animate attributeName="points" dur="3s" repeatCount="1" values="0,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0,-94.64 29.67,-9.64 31.16,42.88 -18.34,25.24 -68.28,-22.18"/>
 </polygon>
 </g>
 <g transform="translate(40, 520)">
 <g transform="translate(273, 0)">
-<rect class="stroke-bg" fill="#e34c26" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="37.916666666666664">
+<rect class="stroke-bg" fill="#3572A5" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="37.916666666666664">
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </rect>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="48.75">
-HTML
+Python
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </text>
-<rect class="stroke-bg" fill="#3178c6" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="70.41666666666667">
+<rect class="stroke-bg" fill="#f7523f" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="70.41666666666667">
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </rect>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="81.25">
-TypeScript
+Blade
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </text>
-<rect class="stroke-bg" fill="#3572A5" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="102.91666666666667">
+<rect class="stroke-bg" fill="#e34c26" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="102.91666666666667">
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </rect>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="113.75">
-Python
+HTML
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </text>
-<rect class="stroke-bg" fill="#f7523f" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="135.41666666666666">
+<rect class="stroke-bg" fill="#f1e05a" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="135.41666666666666">
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </rect>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="146.25">
-Blade
+JavaScript
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </text>
-<rect class="stroke-bg" fill="#f1e05a" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="167.91666666666666">
+<rect class="stroke-bg" fill="#3178c6" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="167.91666666666666">
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </rect>
 <text class="fill-fg" dominant-baseline="middle" font-size="21.666666666666668px" x="26" y="178.75">
-JavaScript
+TypeScript
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </text>
 <rect class="stroke-bg" fill="#444444" height="21.666666666666668" stroke-width="1px" width="21.666666666666668" x="0" y="200.41666666666666">
@@ -2884,27 +2894,27 @@ other
 </text>
 </g>
 <g transform="translate(130, 130)">
-<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,111.96202,-33.963306 L62.201122,-18.868504 A65,65,0,0,0,0,-65 z" fill="#e34c26" stroke-width="2px">
-<title>HTML 26</title>
+<path class="stroke-bg" d="M0,-117 A117,117,0,0,1,109.94404,-40.016357 L61.08002,-22.23131 A65,65,0,0,0,0,-65 z" fill="#3572A5" stroke-width="2px">
+<title>Python 21</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M111.96202,-33.963306 A117,117,0,0,1,82.73149,82.73149 L45.96194,45.96194 A65,65,0,0,0,62.201122,-18.868504 z" fill="#3178c6" stroke-width="2px">
-<title>TypeScript 22</title>
+<path class="stroke-bg" d="M109.94404,-40.016357 A117,117,0,0,1,85.102715,80.29027 L47.279285,44.605705 A65,65,0,0,0,61.08002,-22.23131 z" fill="#f7523f" stroke-width="2px">
+<title>Blade 19</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M82.73149,82.73149 A117,117,0,0,1,-28.42868,113.49366 L-15.793712,63.052032 A65,65,0,0,0,45.96194,45.96194 z" fill="#3572A5" stroke-width="2px">
-<title>Python 21</title>
+<path class="stroke-bg" d="M85.102715,80.29027 A117,117,0,0,1,-26.982058,113.84625 L-14.990031,63.247917 A65,65,0,0,0,47.279285,44.605705 z" fill="#e34c26" stroke-width="2px">
+<title>HTML 18</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-28.42868,113.49366 A117,117,0,0,1,-108.0939,44.77396 L-60.05217,24.874424 A65,65,0,0,0,-15.793712,63.052032 z" fill="#f7523f" stroke-width="2px">
-<title>Blade 19</title>
+<path class="stroke-bg" d="M-26.982058,113.84625 A117,117,0,0,1,-93.84841,69.86755 L-52.13801,38.815308 A65,65,0,0,0,-14.990031,63.247917 z" fill="#f1e05a" stroke-width="2px">
+<title>JavaScript 12</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1"/>
 </path>
-<path class="stroke-bg" d="M-108.0939,44.77396 A117,117,0,0,1,-114.75188,-22.825567 L-63.75104,-12.680871 A65,65,0,0,0,-60.05217,24.874424 z" fill="#f1e05a" stroke-width="2px">
-<title>JavaScript 12</title>
+<path class="stroke-bg" d="M-93.84841,69.86755 A117,117,0,0,1,-116.802055,6.802945 L-64.89003,3.779414 A65,65,0,0,0,-52.13801,38.815308 z" fill="#3178c6" stroke-width="2px">
+<title>TypeScript 10</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1"/>
 </path>
-<path class="stroke-bg" d="M-114.75188,-22.825567 A117,117,0,0,1,-0.00000000000013257361,-117 L-0.00000000000007365201,-65 A65,65,0,0,0,-63.75104,-12.680871 z" fill="#444444" stroke-width="2px">
+<path class="stroke-bg" d="M-116.802055,6.802945 A117,117,0,0,1,-0.000000000000028656734,-117 L-0.000000000000015920408,-65 A65,65,0,0,0,-64.89003,3.779414 z" fill="#444444" stroke-width="2px">
 <title>other 28</title>
 <animate attributeName="fill-opacity" dur="3s" repeatCount="1" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1"/>
 </path>
@@ -2912,7 +2922,7 @@ other
 </g>
 <g>
 <text class="fill-strong" style="font-size:32px;font-weight:bold" text-anchor="end" x="384" y="830">
-685
+655
 </text>
 <text class="fill-fg" style="font-size:24px" text-anchor="start" x="394" y="830">
 contributions
@@ -2932,7 +2942,7 @@ contributions
 <title>2</title>
 </text>
 <text class="fill-weak" dominant-baseline="hanging" style="font-size:16px" text-anchor="end" x="1260" y="20">
-2025-11-16 / 2026-11-15
+2025-11-16 / 2026-11-17
 </text>
 </g>
 <g>
